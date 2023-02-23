@@ -65,10 +65,11 @@ class Radio {
 
     getStations() {
         const stations = [
-            { lofi: '' },
-            { kpop: '' },
-            { jpop: '' },
-            { pop: '' }
+            { lofi: 'http://stream.laut.fm/lofi' },
+            { kpop: 'https://listen.moe/kpop/stream' },
+            { jpop: 'https://listen.moe/stream' },
+            { pop: 'https://streams.ilovemusic.de/iloveradio11.mp3' },
+            { jazz: 'http://stream.laut.fm/justjazz' }
         ];
 
         return {
