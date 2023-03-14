@@ -1,0 +1,17 @@
+{
+    "same_opponent": "You cannot challenge yourself.",
+    "bot_opponent": "You cannot challenge a bot.",
+    "already_in_game": "This user is currently playing with someone else.",
+    "turn": "It's the turn of",
+    "not_user_turn": "It's not your turn!",
+    "case_taken": "This box is already taken!",
+
+    "win": "win the party!",
+    "tie": "Tie game!",
+
+    "request_challenge": "challenges you to a game of TicTacToe! \n> `30 seconds` to make a choice.",
+    "refuse_challenge": "refused the challenge!",
+    "timeout": "took too long to respond.",
+    "refuse": "Refuse",
+    "accept": "Accept"
+}
