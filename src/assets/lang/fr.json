@@ -1,0 +1,17 @@
+{
+    "same_opponent": "Vous ne pouvez pas vous défier vous-même.",
+    "bot_opponent": "Vous ne pouvez pas défier un robot.",
+    "already_in_game": "Cet utilisateur est en train de jouer avec quelqu'un d'autre.",
+    "turn": "C'est au tour de",
+    "not_user_turn": "Ce n'est pas votre tour !",
+    "case_taken": "Cette case est déjà prise !",
+    
+    "win": "remporte la partie !",
+    "tie": "Match nul !",
+    
+    "request_challenge": "vous défie à une partie de TicTacToe ! \n> `30 secondes` pour faire un choix.",
+    "refuse_challenge": "a refusé le défi !",
+    "timeout": "a mis trop de temps à répondre.",
+    "refuse": "Refuser",
+    "accept": "Accepter"
+    }
